@@ -1,0 +1,96 @@
+D:\Project quan ly kho\Phanmemquanlybanhang\Phanmemquanlybanhang\bin\Debug\Phanmemquanlybanhang.exe.config
+D:\Project quan ly kho\Phanmemquanlybanhang\Phanmemquanlybanhang\bin\Debug\Phanmemquanlybanhang.exe
+D:\Project quan ly kho\Phanmemquanlybanhang\Phanmemquanlybanhang\bin\Debug\Phanmemquanlybanhang.pdb
+D:\Project quan ly kho\Phanmemquanlybanhang\Phanmemquanlybanhang\bin\Debug\MaterialDesignColors.dll
+D:\Project quan ly kho\Phanmemquanlybanhang\Phanmemquanlybanhang\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Project quan ly kho\Phanmemquanlybanhang\Phanmemquanlybanhang\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Project quan ly kho\Phanmemquanlybanhang\Phanmemquanlybanhang\bin\Debug\MaterialDesignColors.pdb
+D:\Project quan ly kho\Phanmemquanlybanhang\Phanmemquanlybanhang\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Project quan ly kho\Phanmemquanlybanhang\Phanmemquanlybanhang\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Project quan ly kho\Phanmemquanlybanhang\Phanmemquanlybanhang\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Project quan ly kho\Phanmemquanlybanhang\Phanmemquanlybanhang\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Project quan ly kho\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\Phanmemquanlybanhang.csproj.AssemblyReference.cache
+D:\Project quan ly kho\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\MainWindow.g.cs
+D:\Project quan ly kho\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\App.g.cs
+D:\Project quan ly kho\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\Phanmemquanlybanhang_MarkupCompile.cache
+D:\Project quan ly kho\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\Phanmemquanlybanhang_MarkupCompile.lref
+D:\Project quan ly kho\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\App.baml
+D:\Project quan ly kho\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\MainWindow.baml
+D:\Project quan ly kho\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\Phanmemquanlybanhang.g.resources
+D:\Project quan ly kho\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\Phanmemquanlybanhang.Properties.Resources.resources
+D:\Project quan ly kho\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\Phanmemquanlybanhang.csproj.GenerateResource.cache
+D:\Project quan ly kho\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\Phanmemquanlybanhang.csproj.CoreCompileInputs.cache
+D:\Project quan ly kho\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\Phanmemquanlybanhang.csproj.CopyComplete
+D:\Project quan ly kho\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\Phanmemquanlybanhang.exe
+D:\Project quan ly kho\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\Phanmemquanlybanhang.pdb
+D:\Project quan ly kho\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\LoginWindow.g.cs
+D:\Project quan ly kho\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\ResourcesXAML\MainResource.baml
+D:\Project quan ly kho\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\LoginWindow.baml
+D:\Project quan ly kho\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Project quan ly kho\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\CustomerWindow.g.cs
+D:\Project quan ly kho\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\CustomerWindow.baml
+D:\Project quan ly kho\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\ProductWindow.g.cs
+D:\Project quan ly kho\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\ProductWindow.baml
+D:\Project quan ly kho\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\StaffWindow.g.cs
+D:\Project quan ly kho\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\StaffWindow.baml
+D:\Project quan ly kho\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\RevenueWindow.g.cs
+D:\Project quan ly kho\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\RevenueWindow.baml
+D:\Project quan ly kho\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\SpendingWindow.g.cs
+D:\Project quan ly kho\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\SpendingWindow.baml
+D:\Project quan ly kho\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\SuplierWindow.g.cs
+D:\Project quan ly kho\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\SuplierWindow.baml
+D:\Project quan ly kho\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\UserWindow.g.cs
+D:\Project quan ly kho\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\UserWindow.baml
+D:\Project quan ly kho\Phanmemquanlybanhang\Phanmemquanlybanhang\bin\Debug\EntityFramework.dll
+D:\Project quan ly kho\Phanmemquanlybanhang\Phanmemquanlybanhang\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project quan ly kho\Phanmemquanlybanhang\Phanmemquanlybanhang\bin\Debug\EntityFramework.xml
+D:\Project quan ly kho\Phanmemquanlybanhang\Phanmemquanlybanhang\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project quan ly kho\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\Phanmemquanlybanhang_Content.g.cs
+E:\Project1\Phanmemquanlybanhang\Phanmemquanlybanhang\bin\Debug\Phanmemquanlybanhang.exe.config
+E:\Project1\Phanmemquanlybanhang\Phanmemquanlybanhang\bin\Debug\Phanmemquanlybanhang.exe
+E:\Project1\Phanmemquanlybanhang\Phanmemquanlybanhang\bin\Debug\Phanmemquanlybanhang.pdb
+E:\Project1\Phanmemquanlybanhang\Phanmemquanlybanhang\bin\Debug\EntityFramework.dll
+E:\Project1\Phanmemquanlybanhang\Phanmemquanlybanhang\bin\Debug\EntityFramework.SqlServer.dll
+E:\Project1\Phanmemquanlybanhang\Phanmemquanlybanhang\bin\Debug\MaterialDesignColors.dll
+E:\Project1\Phanmemquanlybanhang\Phanmemquanlybanhang\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Project1\Phanmemquanlybanhang\Phanmemquanlybanhang\bin\Debug\Microsoft.Xaml.Behaviors.dll
+E:\Project1\Phanmemquanlybanhang\Phanmemquanlybanhang\bin\Debug\EntityFramework.xml
+E:\Project1\Phanmemquanlybanhang\Phanmemquanlybanhang\bin\Debug\EntityFramework.SqlServer.xml
+E:\Project1\Phanmemquanlybanhang\Phanmemquanlybanhang\bin\Debug\MaterialDesignColors.pdb
+E:\Project1\Phanmemquanlybanhang\Phanmemquanlybanhang\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Project1\Phanmemquanlybanhang\Phanmemquanlybanhang\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Project1\Phanmemquanlybanhang\Phanmemquanlybanhang\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+E:\Project1\Phanmemquanlybanhang\Phanmemquanlybanhang\bin\Debug\Microsoft.Xaml.Behaviors.xml
+E:\Project1\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\Phanmemquanlybanhang.csproj.AssemblyReference.cache
+E:\Project1\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\CustomerWindow.g.cs
+E:\Project1\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\MainWindow.g.cs
+E:\Project1\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\ProductWindow.g.cs
+E:\Project1\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\LoginWindow.g.cs
+E:\Project1\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\RevenueWindow.g.cs
+E:\Project1\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\SpendingWindow.g.cs
+E:\Project1\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\StaffWindow.g.cs
+E:\Project1\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\SuplierWindow.g.cs
+E:\Project1\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\UserWindow.g.cs
+E:\Project1\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\App.g.cs
+E:\Project1\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\Phanmemquanlybanhang_Content.g.cs
+E:\Project1\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Project1\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\Phanmemquanlybanhang_MarkupCompile.cache
+E:\Project1\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\Phanmemquanlybanhang_MarkupCompile.lref
+E:\Project1\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\App.baml
+E:\Project1\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\CustomerWindow.baml
+E:\Project1\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\MainWindow.baml
+E:\Project1\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\ProductWindow.baml
+E:\Project1\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\ResourcesXAML\MainResource.baml
+E:\Project1\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\LoginWindow.baml
+E:\Project1\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\RevenueWindow.baml
+E:\Project1\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\SpendingWindow.baml
+E:\Project1\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\StaffWindow.baml
+E:\Project1\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\SuplierWindow.baml
+E:\Project1\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\UserWindow.baml
+E:\Project1\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\Phanmemquanlybanhang.g.resources
+E:\Project1\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\Phanmemquanlybanhang.Properties.Resources.resources
+E:\Project1\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\Phanmemquanlybanhang.csproj.GenerateResource.cache
+E:\Project1\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\Phanmemquanlybanhang.csproj.CoreCompileInputs.cache
+E:\Project1\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\Phanmemquanlybanhang.csproj.CopyComplete
+E:\Project1\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\Phanmemquanlybanhang.exe
+E:\Project1\Phanmemquanlybanhang\Phanmemquanlybanhang\obj\Debug\Phanmemquanlybanhang.pdb

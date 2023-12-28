@@ -1,0 +1,13 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:ViewModel="clr-namespace:Phanmemquanlybanhang.ViewModel"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <ViewModel:MainViewModel x:Key="MainVM"></ViewModel:MainViewModel>
+    <ViewModel:LoginViewModel x:Key="LoginVM"></ViewModel:LoginViewModel>
+    <ViewModel:CustomersViewModel x:Key="CustomerVM"></ViewModel:CustomersViewModel>
+    <ViewModel:ProductsViewModel x:Key="ProductVM"></ViewModel:ProductsViewModel>
+    <ViewModel:StaffViewModel x:Key="StaffVM"></ViewModel:StaffViewModel>
+    <ViewModel:RevenueViewModel x:Key="RevenueVM"></ViewModel:RevenueViewModel>
+    <ViewModel:SpendingViewModel x:Key="SpendingVM"></ViewModel:SpendingViewModel>
+    <ViewModel:SuplierViewModel x:Key="SuplierVM"></ViewModel:SuplierViewModel>
+    <ViewModel:UserViewModel x:Key="UserVM"></ViewModel:UserViewModel>
+</ResourceDictionary>
